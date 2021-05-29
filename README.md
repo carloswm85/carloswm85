@@ -1,5 +1,7 @@
 # Introduction
-I'm Carlos, a Front End Web Developer from Argentina. I'm currently studying at college (2nd year), and giving my very first into the web development world.
+I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (2nd year), and giving my very first steps into the web development world.
+
+> Personal Programming Moto: **Keep It Simple, Smart, and Looking Good.**
 
 # About Me
 - 🔭 I’m currently working on personal projects.
@@ -15,5 +17,7 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently studying at 
 <a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 # Interesting Links
+_Accessing some of these pages may require login._
 - 📐 [Your personal metrics on GitHub](https://github.com/lowlighter/metrics)
 - 📃 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- 🙋‍♂️ [Managing Your Profile Readme File](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
