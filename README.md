@@ -3,12 +3,12 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently studying at 
 
 # About Me
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning to use Vue.js, php, and good practices with Python.
-- 👯 I’m looking to collaborate on front end projects (HTML, CSS/SASS, JS/Frameworks)
-- 🤔 I’m looking for help with nothing really. But if you want to chat about programming, I'm really open to it.
-- 💬 Ask me about any question you may have.
+- 🌱 I’m currently learning to use Vue.js, php, and good practices (general programming) with Python.
+- 👯 I’m looking to collaborate on front end projects (HTML, CSS/SASS, JS/Frameworks) as a trainee or junior developer.
+- 😃 You can check some of my GitHub stats on the link on the left hand side panel.
+- 💬 Ask me about any question you may have, I'm interested in programming topics (and financial trading).
 - 📫 How to reach me: Send me an email to carloswm.dev@gmail.com. It may or it may not take me some time to answer. Also you can contact me at LikedIn (click on the badge above).
-- ⚡ Fun fact: I like Chihuahuas. They're pretty cool little dogs.
+- ⚡ Fun fact: I like [Chihuahuas](https://www.google.com/search?q=chihuahua). They're pretty cool little dogs.
 - 📝 You can find my latest resume [here](https://carloswm85.github.io/portfolio/documents/carlos_resume_latest.pdf).
 
 # Badges
