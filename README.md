@@ -1,7 +1,7 @@
 # Introduction
 I'm Carlos, a Front End Web Developer from Argentina. I'm currently studying at college (2nd year), and giving my very first into the web development world.
 
-# About me
+# About Me
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning to use Vue.js, php, and good practices with Python.
 - 👯 I’m looking to collaborate on front end projects (HTML, CSS/SASS, JS/Frameworks)
@@ -14,6 +14,6 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently studying at 
 # Badges
 <a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
-# Interesting links
+# Interesting Links
 - 📐 [Your personal metrics on GitHub](https://github.com/lowlighter/metrics)
 - 📃 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
