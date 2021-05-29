@@ -19,9 +19,9 @@ jobs:
           user: carloswm85
           template: classic
           base: header, activity, community, repositories, metadata
+          config_padding: 6%, 50%
           config_timezone: America/Buenos_Aires
           plugin_introduction: yes
-          plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
