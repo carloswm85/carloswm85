@@ -1,7 +1,3 @@
-### Hi there 👋
-
-This profile is under construction.
-
 ![under-construction-large](https://user-images.githubusercontent.com/29048235/120053628-a45d2480-c001-11eb-926e-d286e257e199.png)
 
 <br />
