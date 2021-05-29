@@ -1,18 +1,19 @@
 <!-- https://metrics.lecoq.io/ -->
 
 ## Hi there 👋
+
 <a href="https://www.linkedin.com/in/mubaidr"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+
 This profile is under construction.
+
 ### I'm Carlos, a web developer from Argentina. I'm currently studying at college (2 year), and giving my very first steps on front end development.
-
-
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning to use Vue.js, php, and good practices with Python.
 - 👯 I’m looking to collaborate on front end projects (HTML, CSS/SASS, JS/Frameworks)
 - 🤔 I’m looking for help with nothing really. But if you want to chat about programming, I'm really open to it.
 - 💬 Ask me about any question you may have.
-- 📫 How to reach me: Send me an email to carloswm.dev@gmail.com. It may or it may not take me some time to answer. Also you can contact me at LikedIn.
+- 📫 How to reach me: Send me an email to carloswm.dev@gmail.com. It may or it may not take me some time to answer. Also you can contact me at LikedIn (click on the badge above).
 - ⚡ Fun fact: I like Chihuahuas. They're pretty cool little dogs.
 
 <!--
