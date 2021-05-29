@@ -14,7 +14,7 @@ This profile is under construction.
 
 <br />
 
-<!-- <img src="https://github.com/carloswm85/carloswm85/blob/master/github-metrics.svg" alt="github-metrics" > -->
+<img src="https://github.com/carloswm85/carloswm85/blob/master/github-metrics.svg" alt="github-metrics" >
 
 <!--
 **carloswm85/carloswm85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
