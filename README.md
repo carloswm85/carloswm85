@@ -1,28 +1,3 @@
-![under-construction-large](https://user-images.githubusercontent.com/29048235/120053628-a45d2480-c001-11eb-926e-d286e257e199.png)
-
-<br />
-
-<!-- <a href="https://mubaidr.js.org"><img src="https://img.shields.io/website?up_message=mubaidr.js.org&url=https%3A%2F%2Fmubaidr.js.org" alt="GitHub"></a> -->
-<a href="https://github.com/carloswm85"><img src="https://img.shields.io/github/followers/carloswm85.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<!-- <a href="https://twitter.com/mubaidr"><img src="https://img.shields.io/twitter/follow/mubaidr?label=Twitter&style=social" alt="Twitter"></a>  -->
-<!-- <a href="https://github.com/sponsors/mubaidr"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a> -->
-
-<br />
-
 ![Metrics](https://metrics.lecoq.io/carloswm85?template=classic&languages=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=false&config.timezone=America%2FBuenos_Aires&config.padding=6%25%2C%2050%25)
 
-<!--
-**carloswm85/carloswm85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- https://metrics.lecoq.io/ -->
