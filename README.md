@@ -2,6 +2,8 @@
 
 This profile is under construction.
 
+![under-construction-large](https://user-images.githubusercontent.com/29048235/120053628-a45d2480-c001-11eb-926e-d286e257e199.png)
+
 <!--
 **carloswm85/carloswm85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
