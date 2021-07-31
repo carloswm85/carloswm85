@@ -27,6 +27,3 @@ _Accessing some of these pages may require login._
 - ✨ [Getting some emojis](https://emojipedia.org/)
 - 📛 [Make your own badges](https://shields.io/)
 - 🏍️ [12 Habits of Highly Effective Software Developers](https://betterprogramming.pub/the-12-habits-of-highly-effective-software-developers-fffb15dc9b15)
-
-# Useful Links
-- [Gitignore](https://www.toptal.com/developers/gitignore)
