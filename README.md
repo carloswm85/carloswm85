@@ -26,7 +26,7 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (
   -  Udacity (*uda*): https://www.udacity.com/
   -  Other tutorials (*other*): From different pages around the web.
   -  Here's a list with more educational technology companies: https://en.wikipedia.org/wiki/Category:Educational_technology_companies
--  **A05** - Personal small projects, like single files I used in other places or other kind of content.
+-  **A05** - Personal small projects, like single files I used on other places or other kind of content.
 -  **A06** - Personal full projects. Important projects were I invest a relevant amount of my personal time.
 
 # Badges
