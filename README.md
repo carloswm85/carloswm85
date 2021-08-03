@@ -13,11 +13,26 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (
 - ⚡ Fun fact: I like [Chihuahuas](https://www.google.com/search?q=chihuahua). They're pretty cool little dogs.
 - 📝 You can find my latest resume [here](https://carloswm85.github.io/portfolio/documents/carlos_resume_latest.pdf).
 
+# Repository Codes
+
+- **A01** - Code snippets, tools and handy information.
+- **A02** - College course content.
+- **A03** - College projects.
+- **A04** - Practice projects, from educational technology companies like:
+  -  Udemy (*ude*): https://www.udemy.com/
+  -  Pluralsight Skills (*plu*): https://www.pluralsight.com/
+  -  CBT Nuggets (*cbt*): https://www.cbtnuggets.com/
+  -  Domestika (*dmk*): https://www.domestika.org/
+  -  Udacity (*uda*): https://www.udacity.com/
+  -  Other tutorials (*other*): From different pages around the web.
+  -  Here's a list with more educational technology companies: https://en.wikipedia.org/wiki/Category:Educational_technology_companies
+-  **A05** - Personal small projects, like single files I used in other places or other kind of content.
+-  **A06** - Personal full projects. Important projects were I invest a relevant amount of my personal time.
+
 # Badges
 <a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/7389293/carloswm85"><img src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow" alt="StackOverflow"></a>
 <a href="https://www.tradingview.com/u/BlueJayBird/#published-scripts"><img src="https://img.shields.io/badge/TradingView--_.svg?style=social&logo=bitcoin" alt="TradingView"></a>
-
 
 # Interesting Links
 _Accessing some of these pages may require login._
