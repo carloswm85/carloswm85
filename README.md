@@ -28,6 +28,7 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (
   -  Here's a list with more educational technology companies: https://en.wikipedia.org/wiki/Category:Educational_technology_companies
 -  **A05** - Personal small projects, like single files I used on other places or other kind of content.
 -  **A06** - Personal full projects. Important projects were I invest a relevant amount of my personal time.
+-  **A07** - Study cases, technology study, and alike.
 
 # Badges
 <a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
