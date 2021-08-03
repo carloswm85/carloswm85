@@ -15,20 +15,22 @@ I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (
 
 # Repository Codes
 
+_In your browser press "ctrl + F" and repo code for a quicker search._
+
 - **A01** - Code snippets, tools and handy information.
-- **A02** - College course content.
+- **A02** - College course content, college weekly practices.
 - **A03** - College projects.
 - **A04** - Practice projects, from educational technology companies like:
   -  Udemy (*ude*): https://www.udemy.com/
   -  Pluralsight Skills (*plu*): https://www.pluralsight.com/
   -  CBT Nuggets (*cbt*): https://www.cbtnuggets.com/
-  -  Domestika (*dmk*): https://www.domestika.org/
+  -  Domestika (*dom*): https://www.domestika.org/
   -  Udacity (*uda*): https://www.udacity.com/
   -  Other tutorials (*other*): From different pages around the web.
   -  Here's a list with more educational technology companies: https://en.wikipedia.org/wiki/Category:Educational_technology_companies
--  **A05** - Personal small projects, like single files I used on other places or other kind of content.
+-  **A05** - Personal small projects, like single files I use on other places or similar kind of content.
 -  **A06** - Personal full projects. Important projects were I invest a relevant amount of my personal time.
--  **A07** - Study cases, technology study, and alike.
+-  **A07** - Specific techonologies study cases. How to make it, how to use, how to understand it.
 
 # Badges
 <a href="https://www.linkedin.com/in/carloswm85/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
