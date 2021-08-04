@@ -1,5 +1,8 @@
 # Introduction
-I'm Carlos, a Front End Web Developer from Argentina. I'm currently at college (2nd year), and giving my very first steps into the web development world.
+I'm Carlos, a Full Stack Developer from Argentina. I'm currently at college (2nd year), and giving my very first steps into the web development world. I'm at trainee level right now (July 2021). Feel free to reach out!
+
+![Stats](https://github-readme-stats.vercel.app/api?username=carloswm85&show_icons=true&count_private=true&line_height=40&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloswm85&theme=dark)
 
 > Personal Programming Moto: **Keep It Simple, Smart, and Looking Good.**
 
@@ -40,6 +43,7 @@ _In your browser press "ctrl + F" and repo code for a quicker search._
 # Interesting Links
 _Accessing some of these pages may require login._
 - 📐 [Your personal metrics on GitHub](https://github.com/lowlighter/metrics)
+- 📏 [More metrics...](https://github.com/anuraghazra/github-readme-stats)
 - 📃 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - 🙋‍♂️ [Managing Your Profile Readme File](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - ✨ [Getting some emojis](https://emojipedia.org/)
