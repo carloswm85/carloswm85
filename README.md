@@ -26,6 +26,7 @@ _In your browser press "ctrl + F" and repo code for a quicker search._
   -  CBT Nuggets (*cbt*): https://www.cbtnuggets.com/
   -  Domestika (*dom*): https://www.domestika.org/
   -  Udacity (*uda*): https://www.udacity.com/
+  -  LinkedIn Learning (*lil*): https://www.linkedin.com/learning/me
   -  Other tutorials (*other*): From different pages around the web.
   -  Here's a list with more educational technology companies: https://en.wikipedia.org/wiki/Category:Educational_technology_companies
 -  **A05** - Personal small projects, like single files I use on other places or similar kind of content.
